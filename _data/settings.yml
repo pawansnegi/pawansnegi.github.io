@@ -1,0 +1,17 @@
+menu:
+- {name: 'Publications', url: '/publications'}
+- {name: 'Courses', url: '/courses'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
+
+social:
+- {icon: 'github', link: 'https://github.com/pawansnegi'}
+- {icon: 'twitter', link: 'https://twitter.com/pawan_s_negi'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/pawan-negi-49bba546'}
+
+contacts:
+- {name: 'Pawan Negi', title: 'Research Scholar', department: 'Aerospace
+Engineering', institution: 'Indian Institute of Technology Bombay',
+institution_address: 'JVLR Road,
+Powai, Mumbai', phone: '--', email: 'Pawan2713@gmail.com', office:
+'CFD Lab, Aero-annex', image: 'assets/img/contact.jpg'}
