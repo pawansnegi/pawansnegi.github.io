@@ -1,12 +1,14 @@
-- title: 'Teaching Assistant'
+- title: 'Teaching assistant'
   description: 'Courses: Aerodynamics lab, Incompressible fluid dynamics, Data
   interpretation and analysis'
 
 - title: 'Associate software developer'
-  description: 'Siemens PLM (2016-2017)'
+  description: 'Siemens PLM (2016-2017) - Manual mesh abstraction'
 
 - title: 'Senior CAE engineer'
-  description: 'Zeus Numerix Pvt. Ltd (2015-2016)'
+  description: 'Zeus Numerix Pvt. Ltd (2015-2016) - Software development,
+  mathematical modelling'
 
 - title: 'CAE engineer'
-  description: 'Zeus Numerix Pvt. Ltd (2014-2015)'
+  description: 'Zeus Numerix Pvt. Ltd (2014-2015) - Software development,
+  mathematical modelling'
