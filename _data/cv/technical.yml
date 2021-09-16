@@ -1,0 +1,14 @@
+- title: 'Programming Languages'
+  description: 'C, C++, Python '
+
+- title: 'Commercial Software'
+  description: 'Ansys-Fluent, Ansys-APDL, Catia, SolidWorks, ICEM-CFD, gmsh'
+
+- title: 'Operating system'
+  description: 'Windows, Linux, MacOS'
+
+- title: 'HPC tools'
+  description: 'openmp, MPI, Cuda'
+
+- title: 'Other libraries and tool'
+  description: 'numpy, scipy, pandas, keras'

@@ -24,5 +24,8 @@ title: "Courses"
 
 ### **Workshop and Short Courses Done**
 
-- [NSM](http://www.cse.iitm.ac.in/~rupesh/service/hpce/nsm-hr/) HPC Workshop organized by IIT Dharwad (20 and 27 March 2021)
-- 6 weeks course on Deep learning by [NSM and CDAC](https://www.iitgoa.ac.in/aishikshadl/index.php)  (June 2021 to August 2021)
+- [NSM](http://www.cse.iitm.ac.in/~rupesh/service/hpce/nsm-hr/) HPC Workshop
+  organized by IIT Dharwad (20 and 27 March 2021)
+- 6 weeks course on Deep learning by [NSM and
+  CDAC](https://www.iitgoa.ac.in/aishikshadl/index.php)  (June 2021 to August
+  2021)
