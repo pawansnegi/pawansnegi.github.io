@@ -2,6 +2,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Pawan Negi" # the name of your site, e.g. ACME Corp.
 description: "Research Scholar"
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: pawansnegi
 
 # !! You don't need to change any of the configuration flags below !!
 #
