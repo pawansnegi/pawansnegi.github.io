@@ -1,8 +1,7 @@
 featured:
 
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
-conditions for smoothed particle hydrodynamics", Physics of Fluids, Vol.34,
-Issue 8, 087125, 2022.', url:
+conditions for smoothed particle hydrodynamics", Physics of Fluids, 2022.', url:
 'https://doi.org/10.1063/5.0126234'}
 
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Techniques for second order
@@ -18,9 +17,8 @@ Fluids, Vol.33, Issue 12, 2021.', url:
 index:
 
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
-conditions for smoothed particle hydrodynamics", Physics of Fluids, Vol.34,
-Issue 8, 087125, 2022.', url:
-'https://doi.org/10.1063/5.0126234'}
+conditions for smoothed particle hydrodynamics", Physics of Fluids, 2022.',
+url: 'https://doi.org/10.1063/5.0126234'}
 
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Techniques for second order
 convergent weakly-compressible smoothed particle hydrodynamics schemes
