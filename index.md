@@ -16,7 +16,9 @@ Ramachandran](https://www.aero.iitb.ac.in/~prabhu/) at IITB make all our
 research available at [https://gitlab.com/pypr](https://gitlab.com/pypr) in the
 interest of reproducibility.
 
-Apart from research, I play ultimate frisbee. IITB has an unofficial club called
-[*Night Crawlers*](https://www.facebook.com/iitbultimatefrisbee/) for all the
-ultimate enthusiast. I also participated in the Mumbai Ultimate League (MUL
-2021), and played for *Icebreakers*.
+Apart from research, I play ultimate frisbee. IITB has an unofficial club
+called [*Night Crawlers*](https://www.facebook.com/iitbultimatefrisbee/)
+for all the ultimate enthusiast. I also participated in the Mumbai Ultimate
+League (MUL 2021), and played for *Icebreakers*. Recently, I joined a new
+club 'Stray dogs in Sweaters' in Delhi.
+

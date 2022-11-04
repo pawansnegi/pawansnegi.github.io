@@ -1,31 +1,36 @@
 featured:
 
+- {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
+conditions for smoothed particle hydrodynamics", Physics of Fluids, Vol.34,
+Issue 8, 087125, 2022.', url:
+'https://doi.org/10.1063/5.0126234'}
+
+- {name: 'Pawan Negi and Prabhu Ramachandran, "Techniques for second order
+convergent weakly-compressible smoothed particle hydrodynamics schemes
+without boundaries", Physics of Fluids, Vol.34, Issue 8, 087125, 2022.', url:
+'https://doi.org/10.1063/5.009835'}
+
 - {name: 'Pawan Negi and Prabhu Ramachandran, "How to train your solver: A
-method of manufactured solutions for weakly-compressible SPH", under review.',
-url: 'https://arxiv.org/abs/2109.09697'}
-
-- {name: 'Pawan Negi and Prabhu Ramachandran, "A new family of second order
-convergent weakly-compressible SPH schemes", under review.', url:
-'https://arxiv.org/abs/2107.11859'}
-
-- {name: 'Prabhu Ramachandran, Aditya Bhosale, Kunal Puri, Pawan Negi, Abhinav
-Muta, A Dinesh, Dileep Menon, Rahul Govind, Suraj Sanka, Amal S Sebastian,
-Ananyo Sen, Rohan Kaushik, Anshuman Kumar, Vikas Kurapati, Mrinalgouda Patil,
-Deep Tavker, Pankaj Pandey, Chandrashekhar Kaushik, Arkopal Dutt, Arpit Agarwal,
-"PySPH: a Python-based framework for smoothed particle hydrodynamics", ACM
-Transactions on Mathematical Software, volume 47, number 4, article 34, July
-2021 doi:10.1145/3460773', url:
-'https://arxiv.org/abs/1909.04504'}
+method of manufactured solutions for weakly-compressible SPH", Physics of
+Fluids, Vol.33, Issue 12, 2021.', url:
+'https://doi.org/10.1063/5.0072383'}
 
 index:
 
-- {name: 'Pawan Negi and Prabhu Ramachandran, "How to train your solver: A
-method of manufactured solutions for weakly-compressible SPH", under review.',
-url: 'https://arxiv.org/abs/2109.09697'}
+- {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
+conditions for smoothed particle hydrodynamics", Physics of Fluids, Vol.34,
+Issue 8, 087125, 2022.', url:
+'https://doi.org/10.1063/5.0126234'}
 
-- {name: 'Pawan Negi and Prabhu Ramachandran, "A new family of second order
-convergent weakly-compressible SPH schemes", under review.', url:
-'https://arxiv.org/abs/2107.11859'}
+- {name: 'Pawan Negi and Prabhu Ramachandran, "Techniques for second order
+convergent weakly-compressible smoothed particle hydrodynamics schemes
+without boundaries", Physics of Fluids, Vol.34, Issue 8, 087125, 2022.', url:
+'https://doi.org/10.1063/5.009835'}
+
+- {name: 'Pawan Negi and Prabhu Ramachandran, "How to train your solver: A
+method of manufactured solutions for weakly-compressible SPH", Physics of
+Fluids, Vol.33, Issue 12, 2021.', url:
+'https://doi.org/10.1063/5.0072383'}
 
 - {name: 'Prabhu Ramachandran, Aditya Bhosale, Kunal Puri, Pawan Negi, Abhinav
 Muta, A Dinesh, Dileep Menon, Rahul Govind, Suraj Sanka, Amal S Sebastian,
@@ -33,8 +38,8 @@ Ananyo Sen, Rohan Kaushik, Anshuman Kumar, Vikas Kurapati, Mrinalgouda Patil,
 Deep Tavker, Pankaj Pandey, Chandrashekhar Kaushik, Arkopal Dutt, Arpit Agarwal,
 "PySPH: a Python-based framework for smoothed particle hydrodynamics", ACM
 Transactions on Mathematical Software, volume 47, number 4, article 34, July
-2021 doi:10.1145/3460773', url:
-'https://arxiv.org/abs/1909.04504'}
+2021.', url:
+'https://doi.org/10.1145/3460773'}
 
 - {name: 'Pawan Negi, and Prabhu Ramachandran. “Algorithms for Uniform Particle
 Initialization in Domains with Complex Boundaries.” Computer Physics
@@ -44,7 +49,7 @@ Communications 265 (August 1, 2021): 108008.', url:
 - {name: 'Abhinav Muta, Prabhu Ramachandran, and Pawan Negi. “An Efficient, Open
 Source, Iterative ISPH Scheme.” Computer Physics Communications 255 (October
 1, 2020): 107283.', url:
-'ttps://doi.org/10.1016/j.cpc.2020.107283'}
+'https://doi.org/10.1016/j.cpc.2020.107283'}
 
 - {name: 'Pawan Negi, Prabhu Ramachandran, and Asmelash Haftu. “An Improved
 Non-Reflecting Outlet Boundary Condition for Weakly-Compressible SPH.” Computer

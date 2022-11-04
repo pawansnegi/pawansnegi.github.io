@@ -4,5 +4,6 @@ title: "Publications"
 ---
 
 The source code of all the publications are available at
-[https://gitlab.com/pypr](https://gitlab.com/pypr) in the
-interest of reproducibility.
+[https://gitlab.com/pypr](https://gitlab.com/pypr) in the interest of
+reproducibility. All my publications are also available on
+[arxiv](https://arxiv.org/search/?query=Pawan+Negi&searchtype=all&source=header).
