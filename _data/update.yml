@@ -1,5 +1,9 @@
 update:
 
+- {pre: 'Defended my PhD thesis on May 17, 2023', url_text: , url:
+'', post: ''}
+- {pre: 'Joined Illinois Tech on March 1, 2023', url_text: ' ', url: ' ',
+post: ' '}
+- {pre: 'Writing my thesis', url_text: '', url: '', post: ''}
 - {pre: 'Completed 6 weeks course on Deep Learning by', url_text: 'NSM and
 CDAC', url: 'https://www.iitgoa.ac.in/aishikshadl/index.php', post: ''}
-- {pre: 'Writing my', url_text: 'thesis', url: '', post: ''}

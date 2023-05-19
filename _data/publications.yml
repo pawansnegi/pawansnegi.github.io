@@ -52,4 +52,5 @@ Source, Iterative ISPH Scheme.” Computer Physics Communications 255 (October
 - {name: 'Pawan Negi, Prabhu Ramachandran, and Asmelash Haftu. “An Improved
 Non-Reflecting Outlet Boundary Condition for Weakly-Compressible SPH.” Computer
 Methods in Applied Mechanics and Engineering 367 (August 1, 2020): 113119.', url:
-'https://doi.org/10.1016/j.cma.2020.113119', download: '/assets/1907.04034.pdf'}
+'https://doi.org/10.1016/j.cma.2020.113119', download:
+'/assets/1907.04034.pdf'}
