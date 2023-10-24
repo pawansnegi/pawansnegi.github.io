@@ -16,6 +16,11 @@
       </a></li>
         <p> </p>
       {% endfor %}
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Conferences/Contributed Talks</h3>
+      {% for item in site.data.publications.conferences %}
+        <li>{{ item.name }} </li>
+        <p> </p>
+      {% endfor %}
     {% endif %}
   </div>
 </div>

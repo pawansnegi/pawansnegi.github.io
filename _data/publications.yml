@@ -1,5 +1,10 @@
 featured:
 
+- {name: 'Pawan Negi, Maggie Cheng, Mahesh Krishnamurthy, Wenjun Ying, and
+Shuwang Li, "Learning Domain-Independent Green’s Function For Elliptic
+Partial Differential Equations", Under Review',
+url: '', download: ''}
+
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
 conditions for smoothed particle hydrodynamics", Physics of Fluids, 2022.', url:
 'https://doi.org/10.1063/5.0126234', download: 'assets/POF22-AR-05555.pdf'}
@@ -9,12 +14,12 @@ convergent weakly-compressible smoothed particle hydrodynamics schemes
 without boundaries", Physics of Fluids, Vol.34, Issue 8, 087125, 2022.', url:
 'https://doi.org/10.1063/5.009835', download: 'assets/POF22-AR-02537.pdf'}
 
-- {name: 'Pawan Negi and Prabhu Ramachandran, "How to train your solver: A
-method of manufactured solutions for weakly-compressible SPH", Physics of
-Fluids, Vol.33, Issue 12, 2021.', url:
-'https://doi.org/10.1063/5.0072383', download: 'assets/POF21-AR-04479.pdf'}
-
 index:
+
+- {name: 'Pawan Negi, Maggie Cheng, Mahesh Krishnamurthy, Wenjun Ying, and
+Shuwang Li, "Learning Domain-Independent Green’s Function For Elliptic
+Partial Differential Equations", Under Review',
+url: '', download: ''}
 
 - {name: 'Pawan Negi and Prabhu Ramachandran, "Verification of boundary
 conditions for smoothed particle hydrodynamics", Physics of Fluids, 2022.',
@@ -54,3 +59,10 @@ Non-Reflecting Outlet Boundary Condition for Weakly-Compressible SPH.” Compute
 Methods in Applied Mechanics and Engineering 367 (August 1, 2020): 113119.', url:
 'https://doi.org/10.1016/j.cma.2020.113119', download:
 '/assets/1907.04034.pdf'}
+
+
+conferences:
+
+- {name: '8th Annual Meeting of SIAM Central States Section, "Learning Free
+Space Green’s Function For Elliptic Partial Differential Equations",
+October 7-8, 2023 | Lincoln, Nebraska'}
